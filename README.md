@@ -70,14 +70,12 @@ startQR().catch(console.error);
 
 - `1.1.1`
 
-## Repository
+## Ghi chú/ Lưu ý
 
-https://github.com/VLjnh-New/ZCA-CUSTOM.git
+Dự án nguồn từ zca-js nhưng bản gốc thiếu khá nhiều cần thiết với tư cách người dùng tôi đã làm lại và thêm một số tính năng nếu muốn biết hãy tự tìm hiểu.
 
-## Link cập nhật
+Đây là zca của LauNa_Bot nếu bạn cảm thấy thích hãy xử dụng. Tôi không nhận góp ý trừ khi đó là bug từ zca-custom
+#API-REST Hub 
+-`https://api.vljnh.qzz.io/`
 
-https://github.com/VLjnh-New/ZCA-CUSTOM.git
-
-## Ghi chú
-
-Dự án chưa có package dependencies cụ thể trong `package.json`, vì vậy bạn có thể bổ sung thêm các thư viện cần thiết nếu dùng trong môi trường thực tế.
+Cảm ơn!
