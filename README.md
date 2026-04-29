@@ -74,8 +74,9 @@ startQR().catch(console.error);
 
 Dự án nguồn từ zca-js nhưng bản gốc thiếu khá nhiều cần thiết với tư cách người dùng tôi đã làm lại và thêm một số tính năng nếu muốn biết hãy tự tìm hiểu.
 
-Đây là zca của LauNa_Bot nếu bạn cảm thấy thích hãy xử dụng. Tôi không nhận góp ý trừ khi đó là bug từ zca-custom
-#API-REST Hub 
+Đây là zca của LauNa_Bot nếu bạn cảm thấy thích hãy xử dụng. Tôi không nhận góp ý trừ khi đó là bug từ zca-custom.
+
+##API-REST Hub 
 -`https://api.vljnh.qzz.io/`
 
-Cảm ơn!
+##Cảm ơn!
