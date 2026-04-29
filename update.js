@@ -2,7 +2,7 @@ import { compare } from "semver";
 import fetch from "node-fetch";
 import { logger } from "./utils.js";
 
-const VERSION = "3.0.0";
+const VERSION = "1.1.1";
 const NPM_REGISTRY = "https://registry.npmjs.org/zca-custom";
 const UPDATE_REPO = "https://github.com/VLjnh-New/ZCA-CUSTOM.git";
 
