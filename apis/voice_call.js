@@ -2,7 +2,7 @@ import { ZaloApiError } from "../Errors/ZaloApiError.js";
 import { encodeAES, makeURL, request, resolveResponse } from "../utils.js";
 
 const VOICECALL_HOST = "https://voicecall-wpa.chat.zalo.me";
-const DEFAULT_GROUP_NAME = "debug";
+const DEFAULT_GROUP_NAME = "";
 const DEFAULT_MAX_USERS = 8;
 
 function trimStr(v) {
